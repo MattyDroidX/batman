@@ -1,5 +1,7 @@
 * {
   font-family: "Times New Roman";
+  margin:0;
+  padding:0;
 }
 
 nav {
@@ -28,9 +30,8 @@ h3 {
   font-size: 20px;
 }
 
-li {
+i {
   font-weight: bold;
-  font-style: italic;
 }
 
 footer {
@@ -39,4 +40,12 @@ footer {
   font-size: 20px;
   display: flex;
   justify-content: center;
+}
+
+.normalice{
+  margin:20px;
+}
+
+.container{
+  display:flex;
 }
