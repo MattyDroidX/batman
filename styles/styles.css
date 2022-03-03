@@ -42,10 +42,22 @@ footer {
   justify-content: center;
 }
 
-.normalice{
-  margin:20px;
+.margencito{
+  margin-left: 20px;
+  margin-right:3px;
 }
 
-.container{
+.sub-contenedor{
   display:flex;
+}
+
+.contenedor{
+  margin-top:20px;
+  margin-bottom: 20px;
+  /*esto que puse arriba es lo mismo que poner margin: 20,0,20,0; */
+}
+
+.izquierda{
+  margin-left:50px;
+  margin-bottom:5px;
 }
